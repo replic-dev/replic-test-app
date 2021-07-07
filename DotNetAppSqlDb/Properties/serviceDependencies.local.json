@@ -8,6 +8,9 @@
       "type": "mssql.azure",
       "connectionId": "ConnectionStrings:MyDbConnection",
       "secretStore": "LocalSecretsFile"
+    },
+    "appInsights1": {
+      "type": "appInsights.sdk"
     }
   }
 }
